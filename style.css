@@ -1,0 +1,11 @@
+body {
+    background-color:#E9ECEF;
+    font-family: 'Rufina', serif;
+}
+
+.card {
+    float: left;
+    margin-right: 10px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
